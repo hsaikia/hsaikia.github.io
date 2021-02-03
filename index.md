@@ -2,6 +2,7 @@
 layout: default
 title: "Himangshu Saikia's Homepage"
 permalink: /
+site.github.is_user_page: false
 ---
 
 # Hello World!
