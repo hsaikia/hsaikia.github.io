@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Homepage
+title: null
 permalink: /
 site.github.is_user_page: false
 ---
