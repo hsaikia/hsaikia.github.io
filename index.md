@@ -1,8 +1,7 @@
 ---
 layout: default
-title: null
+title: Homepage
 permalink: /
-site.github.is_user_page: false
 ---
 
 # Hello World!

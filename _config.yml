@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 logo: /assets/img/me.jpeg
 name: Himangshu Saikia
 title: null
+site.github.is_user_page: false
