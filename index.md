@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Himangshu Saikia's Homepage"
+title: Homepage
 permalink: /
 site.github.is_user_page: false
 ---
