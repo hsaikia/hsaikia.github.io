@@ -10,7 +10,7 @@ Hi, I'm Himangshu Saikia, and here you'll find links to my various projects and 
 
 ### Food
 
-- Vegan recipes from my home cooking pastimes on [Instagram](https://www.instagram.com/ne_desi_vegan/).
+- Vegan recipes from my home cooking pastimes on [Instagram](https://www.instagram.com/eat_and_let_live/).
 
 ### Poetry
 
