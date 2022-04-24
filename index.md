@@ -1,24 +1,26 @@
 ---
 layout: default
-title: Homepage
+title: Hello Multiverse
 permalink: /
 ---
 
-# Hello World!
+Welcome curious visitor, in this page you'll find links to my various projects and creative outlets.
 
-Hi, I'm Himangshu Saikia, and here you'll find links to my various projects and creative outlets.
-
+<div>
+	  {% for tag in site.tags %}
+      <h3>{{ tag[0] }}</h3>
+      <ul>
+        {% for post in tag[1] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endfor %}
+</div>
+    
 ### Food
 
 - Vegan recipes from my home cooking pastimes on [Instagram](https://www.instagram.com/eat_and_let_live/).
 
-### Poetry
-
-- Some of my [poems](https://milspeak.wordpress.com/category/poetry/) on anthropomorphized beings and ghosts.
-
-### Writings
-
-- My thoughts on philosophy, chess and sustainability on [Medium](https://himangshu-saikia.medium.com/).
 
 ### Music
 
