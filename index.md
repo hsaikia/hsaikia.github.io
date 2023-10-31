@@ -13,22 +13,13 @@ Welcome curious visitor, in this page you'll find links to my various projects a
 - Sources to my public projects, are hosted on my [Github](https://github.com/hsaikia).
 - My publications are listed on [Google Scholar](https://scholar.google.com/citations?hl=en&user=B6UDagwAAAAJ).
 - I like strategy board games like Chess and Agricola, and often spend a lot of time thinking about algorithms for optimal decision making in games.
-
-### Hiking
-
-I organize hikes every now and then in and around Munich in the [Hiking Buddies Munich](https://www.hiking-buddies.com/routes/user/5581/) community.
-
-### Food
-
+- I organize hikes every now and then in and around Munich in the [Hiking Buddies Munich](https://www.hiking-buddies.com/routes/user/5581/) community.
 - Vegan recipes from my home cooking pastimes on [Instagram](https://www.instagram.com/eat_and_let_live/).
-
-### Music
-
 - Some of my (bad) guitar recordings on [SoundCloud](https://soundcloud.com/milwac).
 
-### Connect
+## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/himangshu-saikia-a4a4711b)
+[LinkedIn](https://www.linkedin.com/in/himangshu-saikia-a4a4711b)
 
 ## Articles and Blog posts
 
