@@ -8,7 +8,7 @@ author: Himangshu Saikia
 
 <center>
 <figure>
-    <img src="/assets/img/pigs.jpeg"
+    <img src="/img/pigs.jpeg"
          alt="pigs" height="400">
     <figcaption>Pigs in a factory farm in Australia (Image courtesy : animalsaustralia.org).</figcaption>
 </figure>

@@ -23,7 +23,7 @@ The aim of this system being small and decentralized is facilitated by all of it
 
 <center>
 <figure>
-    <img src="/assets/img/vertical_aeroponics.webp"
+    <img src="/img/vertical_aeroponics.webp"
          alt="aeroponics" height="400">
     <figcaption>A vertical aeroponic system. Aeroponics and Hydroponics allow vegetables to be grown without the usage of soil.
 </figcaption>
@@ -34,7 +34,7 @@ The main challenge of living off-grid is power (hence off-grid), but with the ad
 
 <center>
 <figure>
-    <img src="/assets/img/power-generation-capacity.html"
+    <img src="/img/power-generation-capacity.html"
          alt="power" height="400">
     <figcaption>Power generation capacity additions in GW. Renewables just recently tipped fossil fuels to become the largest means of power generation in the world. Source: BloombergBusiness.
     </figcaption>
@@ -48,7 +48,7 @@ Blaming governments and corrupt leaders do not lead us to solutions. More import
 
 <center>
 <figure>
-    <img src="/assets/img/earthship-inside.html"
+    <img src="/img/earthship-inside.html"
          alt="earthship" height="400">
     <figcaption>Inside of an Earthship
     </figcaption>
@@ -60,15 +60,15 @@ Shelter is almost the most important part of community living, since a house is 
 
 <center>
 <figure>
-    <img src="/assets/img/bamboo1.html" height="400" alt="bamboo1">
-    <img src="/assets/img/bamboo2.html" height="400" alt="bamboo2">
+    <img src="/img/bamboo1.html" height="400" alt="bamboo1">
+    <img src="/img/bamboo2.html" height="400" alt="bamboo2">
     <figcaption>Bamboo buildings in Bali</figcaption>
 </figure>
 </center>
 
 <center>
 <figure>
-    <img src="/assets/img/cob-house.webp" height="400" alt="cob house">
+    <img src="/img/cob-house.webp" height="400" alt="cob house">
     <figcaption>Interiors of a cob house</figcaption>
 </figure>
 </center>
@@ -81,7 +81,7 @@ That being said, the use of a medium of exchange in the form of a crypto-currenc
 
 <center>
 <figure>
-    <img src="/assets/img/bitcoin.html" alt="bitcoin" height="400">
+    <img src="/img/bitcoin.html" alt="bitcoin" height="400">
     <figcaption>The Bitcoin is one of the world’s most popular crypto-currency.
 </figcaption>
 </figure>

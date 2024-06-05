@@ -116,7 +116,7 @@ Attacking the black dark squared bishop, a very important piece in this game, `3
 
 <center>
 <figure>
-    <img src="/assets/img/chess1.jpg"
+    <img src="/img/chess1.jpg"
          alt="chess-position" max-height="500">
     <figcaption>Position after 31...Bh8</figcaption>
 </figure>

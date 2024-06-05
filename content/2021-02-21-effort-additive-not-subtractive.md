@@ -8,7 +8,7 @@ author: Himangshu Saikia
 
 <center>
 <figure>
-    <img src="/assets/img/ants.jpeg"
+    <img src="/img/ants.jpeg"
          alt="An Ant Colony." height="400">
     <figcaption>An Ant Colony. Image courtesy : www.mickeyschilling.com</figcaption>
 </figure>

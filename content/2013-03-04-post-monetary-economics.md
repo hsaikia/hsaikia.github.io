@@ -8,7 +8,7 @@ author: Himangshu Saikia
 
 <center>
 <figure>
-    <img src="/assets/img/geodesic-dome.jpg"
+    <img src="/img/geodesic-dome.jpg"
          alt="geodesic" height="400">
     <figcaption>A geodesic dome designed by Buckminster Fuller in Montreal, Canada. Image Courtesy : <a href="https://www.architecturaldigest.com/gallery/buckminster-fuller-architecture">https://www.architecturaldigest.com/gallery/buckminster-fuller-architecture</a>
 </figcaption>

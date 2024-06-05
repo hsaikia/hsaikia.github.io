@@ -8,7 +8,7 @@ author: Himangshu Saikia
 
 <center>
 <figure>
-    <img src="/assets/img/cylinder.jpeg"
+    <img src="/img/cylinder.jpeg"
          alt="A cylinder" height="400">
     <figcaption>Figure 1 : 2D projections of a 3d object (cylinder). Image courtesy : <a href="https://lightnightgreekfire.wordpress.com/2015/09/21/2d-shadows-of-3d-shapes/">2D shadows of 3D shapes</a></figcaption>
 </figure>

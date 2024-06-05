@@ -8,7 +8,7 @@ author: Himangshu Saikia
 
 <center>
 <figure>
-    <img src="/assets/img/aot.jpeg"
+    <img src="/img/aot.jpeg"
          alt="'Attack on Titan' is a anime based on a fantasy world of humans and titans — where stark ideological differences between various nations almost lead to a complete annihilation of the entire world.
 " height="400">
     <figcaption>Attack on Titan’ is a anime based on a fantasy world of humans and titans — where stark ideological differences between various nations almost lead to a complete annihilation of the entire world.</figcaption>

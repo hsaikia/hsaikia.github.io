@@ -54,7 +54,7 @@ I don’t see any point of Qd8 here, but other moves do not achieve much.
 
 <center>
 <figure>
-    <img src="/assets/img/ft_chess_1.jpg"
+    <img src="/img/ft_chess_1.jpg"
          alt="chess-position" height="400">
     <figcaption>Position after 16. Nxf7</figcaption>
 </figure>
@@ -72,7 +72,7 @@ Black averts damage for now, `Bf7` atacks the base of the pawn chain, which is t
 
 <center>
 <figure>
-    <img src="/assets/img/ft_chess_2.jpg"
+    <img src= "/img/ft_chess_2.jpg" 
          alt="chess-position" height="400">
     <figcaption>Position after 26. Ng5</figcaption>
 </figure>
@@ -84,7 +84,7 @@ The position is clear. White pieces are active and set on well placed locations.
 
 <center>
 <figure>
-    <img src="/assets/img/ft_chess_3.jpg"
+    <img src="/img/ft_chess_3.jpg"
          alt="chess-position" height="400">
     <figcaption>Position after 27. Nxd5+</figcaption>
 </figure>

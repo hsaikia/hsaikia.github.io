@@ -8,7 +8,7 @@ author: Himangshu Saikia
 
 <center>
 <figure>
-    <img src="/assets/img/MCTS_Algorithm.png"
+    <img src="/img/MCTS_Algorithm.png"
          alt="Overview of the MCTS algorithm." height="300">
     <figcaption>Overview of the MCTS algorithm. </figcaption>
 </figure>
